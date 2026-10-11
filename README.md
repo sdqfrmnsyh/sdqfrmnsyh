@@ -11,6 +11,8 @@
 
 - A simple and modern wallpaper manager for Linux. Supports both static (JPG, PNG, WebP, etc.) and live wallpapers (video/GIF) with a clean Qt5 GUI. [Walper](https://github.com/sdqfrmnsyh/Walper)
 
+- A Linux task manager that looks like W11 but actually works. No telemetry, no forced updates, no Bing search in your Start Menu. [taskmgr12](https://github.com/sdqfrmnsyh/taskmgr12)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sdqfrmnsyh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sdqfrmnsyh_" height="30" width="40" /></a>
